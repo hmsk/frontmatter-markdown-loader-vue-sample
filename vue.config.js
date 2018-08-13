@@ -5,6 +5,10 @@ module.exports = {
       .test(/\.md$/)
       .use('frontmatter-markdown-loader')
         .loader('frontmatter-markdown-loader')
-        .end()
+        .tap(options => {
+          return {
+            vue: true
+          }
+        })
   }
 }

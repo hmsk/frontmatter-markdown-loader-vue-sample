@@ -7,7 +7,9 @@ module.exports = {
         .loader('frontmatter-markdown-loader')
         .tap(options => {
           return {
-            vue: true
+            vue: {
+              root: 'markdown-body'
+            }
           }
         })
   }

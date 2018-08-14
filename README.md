@@ -1,9 +1,8 @@
 # frontmatter-markdown-loader-vue-sample
 
 ## Project setup
-```
-npm install
-```
+
+<npm-or-yarn>If works as a Vue component, this line should disappear. Try in your local!</npm-or-yarn>
 
 ### Compiles and hot-reloads for development
 ```

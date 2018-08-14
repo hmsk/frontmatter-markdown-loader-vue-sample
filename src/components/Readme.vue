@@ -1,8 +1,10 @@
 <script>
 import readme from "../../README.md"
+import NpmOrYarn from "./NpmOrYarn.vue"
 
 export default {
-  extends: readme.vue.component
+  extends: readme.vue.component,
+  components: { NpmOrYarn }
 }
 </script>
 

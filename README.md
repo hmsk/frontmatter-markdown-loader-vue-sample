@@ -19,5 +19,9 @@ npm run build
 Reported in [Issue #4](https://github.com/hmsk/frontmatter-markdown-loader/issues/4)
 
 ```html
-<div>{{ test }}</div>
+<html lang="{{ app()->getLocale() }}">
+  <body>
+    {{ something }}
+  </body>
+</html>
 ```

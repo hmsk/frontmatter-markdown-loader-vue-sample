@@ -13,3 +13,11 @@ npm run serve
 ```
 npm run build
 ```
+
+## Here's code snipet which should not be compiled as Vue's template
+
+Reported in [Issue #4](https://github.com/hmsk/frontmatter-markdown-loader/issues/4)
+
+```html
+<div>{{ test }}</div>
+```

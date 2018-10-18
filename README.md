@@ -1,5 +1,7 @@
 # frontmatter-markdown-loader-vue-sample
 
+- Sample Vue app to use [frontmatter-markdown-loader](https://github.com/hmsk/frontmatter-markdown-loader)
+
 ## Project setup
 
 <npm-or-yarn>If works as a Vue component, this line should disappear. Try in your local!</npm-or-yarn>

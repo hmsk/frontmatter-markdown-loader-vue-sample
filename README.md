@@ -29,3 +29,5 @@ Reported in [Issue #4](https://github.com/hmsk/frontmatter-markdown-loader/issue
   </body>
 </html>
 ```
+
+In [Issue #6](https://github.com/hmsk/frontmatter-markdown-loader/issues/6), reported `inline code` is not working correctly.

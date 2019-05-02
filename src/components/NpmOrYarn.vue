@@ -4,9 +4,3 @@
     <li><code>$ yarn install</code></li>
   </ul>
 </template>
-
-<script>
-
-export default {
-}
-</script>

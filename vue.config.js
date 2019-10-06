@@ -1,3 +1,5 @@
+const Mode = require('frontmatter-markdown-loader/mode')
+
 module.exports = {
   chainWebpack: config => {
     config.module
@@ -7,6 +9,7 @@ module.exports = {
         .loader('frontmatter-markdown-loader')
         .tap(options => {
           return {
+            mode: [Mode.VUE_COMPONENT],
             vue: {
               root: 'markdown-body'
             }

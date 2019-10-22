@@ -31,3 +31,7 @@ Reported in [Issue #4](https://github.com/hmsk/frontmatter-markdown-loader/issue
 ```
 
 In [Issue #6](https://github.com/hmsk/frontmatter-markdown-loader/issues/6), reported `inline code` is not working correctly.
+
+## Asset transformation
+
+![This image should be rendered on Vue](./src/assets/logo.png)

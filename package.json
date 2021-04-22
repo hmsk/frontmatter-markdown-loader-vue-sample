@@ -12,6 +12,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "4.5.12",
     "@vue/cli-service": "4.5.12",
+    "core-js": "3.10.2",
     "frontmatter-markdown-loader": "3.6.2",
     "github-markdown-css": "4.0.0",
     "vue-template-compiler": "2.6.12"

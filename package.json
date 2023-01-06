@@ -10,8 +10,8 @@
     "vue": "2.6.12"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "4.5.12",
-    "@vue/cli-service": "4.5.12",
+    "@vue/cli-plugin-babel": "5.0.8",
+    "@vue/cli-service": "5.0.8",
     "core-js": "3.10.2",
     "frontmatter-markdown-loader": "3.6.2",
     "github-markdown-css": "4.0.0",
